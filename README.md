@@ -1,4 +1,4 @@
-# snail-ide-website
+# stone-hub-website
 This is a website where you can share your Stone HUB projects with the community.<br />
 Based off of PenguinMod/PenguinMod-Home.<br />
 
