@@ -1,5 +1,5 @@
 # snail-ide-website
-This is a website where you can share your Snail IDE projects with the community.<br />
+This is a website where you can share your Stone HUB projects with the community.<br />
 Based off of PenguinMod/PenguinMod-Home.<br />
 
 # building instructions
